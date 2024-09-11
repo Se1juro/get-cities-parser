@@ -1,0 +1,470 @@
+[
+  {
+    "department": "Adjuntas",
+    "lat": "18.16348480",
+    "long": "-66.72315800",
+    "city": "Adjuntas"
+  },
+  {
+    "department": "Aguada",
+    "lat": "18.38015790",
+    "long": "-67.18870400",
+    "city": "Aguada"
+  },
+  {
+    "department": "Aguadilla",
+    "lat": "18.42744540",
+    "long": "-67.15406980",
+    "city": "Aguadilla"
+  },
+  {
+    "department": "Aguas Buenas",
+    "lat": "18.25689890",
+    "long": "-66.10294420",
+    "city": "Aguas Buenas"
+  },
+  {
+    "department": "Aibonito",
+    "lat": "18.13995940",
+    "long": "-66.26600160",
+    "city": "Aibonito"
+  },
+  {
+    "department": "Añasco",
+    "lat": "18.28544760",
+    "long": "-67.14029350",
+    "city": "Añasco"
+  },
+  {
+    "department": "Arecibo",
+    "lat": "18.47051370",
+    "long": "-66.72184720",
+    "city": "Arecibo"
+  },
+  {
+    "department": "Arroyo",
+    "lat": "17.99642200",
+    "long": "-66.09248790",
+    "city": "Arroyo"
+  },
+  {
+    "department": "Barceloneta",
+    "lat": "41.38010610",
+    "long": "2.18969570",
+    "city": "Barceloneta"
+  },
+  {
+    "department": "Barranquitas",
+    "lat": "18.18662420",
+    "long": "-66.30628020",
+    "city": "Barranquitas"
+  },
+  {
+    "department": "Bayamón",
+    "lat": "18.38939600",
+    "long": "-66.16532240",
+    "city": "Bayamón"
+  },
+  {
+    "department": "Cabo Rojo",
+    "lat": "18.08662650",
+    "long": "-67.14573470",
+    "city": "Cabo Rojo"
+  },
+  {
+    "department": "Caguas",
+    "lat": "18.23879950",
+    "long": "-66.03524900",
+    "city": "Caguas"
+  },
+  {
+    "department": "Camuy",
+    "lat": "18.48383300",
+    "long": "-66.84489940",
+    "city": "Camuy"
+  },
+  {
+    "department": "Canóvanas",
+    "lat": "18.37487480",
+    "long": "-65.89975330",
+    "city": "Canóvanas"
+  },
+  {
+    "department": "Carolina",
+    "lat": "18.36808770",
+    "long": "-66.04247340",
+    "city": "Carolina"
+  },
+  {
+    "department": "Cataño",
+    "lat": "18.44653550",
+    "long": "-66.13557750",
+    "city": "Cataño"
+  },
+  {
+    "department": "Cayey",
+    "lat": "18.11190510",
+    "long": "-66.16600000",
+    "city": "Cayey"
+  },
+  {
+    "department": "Ceiba",
+    "lat": "18.24751770",
+    "long": "-65.90849530",
+    "city": "Ceiba"
+  },
+  {
+    "department": "Ciales",
+    "lat": "18.33606220",
+    "long": "-66.46878230",
+    "city": "Ciales"
+  },
+  {
+    "department": "Cidra",
+    "lat": "18.17579140",
+    "long": "-66.16127790",
+    "city": "Cidra"
+  },
+  {
+    "department": "Coamo",
+    "lat": "18.07996160",
+    "long": "-66.35794730",
+    "city": "Coamo"
+  },
+  {
+    "department": "Comerío",
+    "lat": "18.21920010",
+    "long": "-66.22560220",
+    "city": "Comerío"
+  },
+  {
+    "department": "Corozal",
+    "lat": "18.40308020",
+    "long": "-88.39675360",
+    "city": "Corozal"
+  },
+  {
+    "department": "Culebra",
+    "lat": "18.31039400",
+    "long": "-65.30307050",
+    "city": "Culebra"
+  },
+  {
+    "department": "Dorado",
+    "lat": "43.14805560",
+    "long": "-77.57722220",
+    "city": "Dorado"
+  },
+  {
+    "department": "Fajardo",
+    "lat": "18.32521480",
+    "long": "-65.65393560",
+    "city": "Fajardo"
+  },
+  {
+    "department": "Florida",
+    "lat": "27.66482740",
+    "long": "-81.51575350",
+    "city": "Florida"
+  },
+  {
+    "department": "Guánica",
+    "lat": "17.97251450",
+    "long": "-66.90862640",
+    "city": "Guánica"
+  },
+  {
+    "department": "Guayama",
+    "lat": "17.98413280",
+    "long": "-66.11377670",
+    "city": "Guayama"
+  },
+  {
+    "department": "Guayanilla",
+    "lat": "18.01913140",
+    "long": "-66.79184200",
+    "city": "Guayanilla"
+  },
+  {
+    "department": "Guaynabo",
+    "lat": "18.36129540",
+    "long": "-66.11029570",
+    "city": "Guaynabo"
+  },
+  {
+    "department": "Gurabo",
+    "lat": "18.25439870",
+    "long": "-65.97294210",
+    "city": "Gurabo"
+  },
+  {
+    "department": "Hatillo",
+    "lat": "18.42846420",
+    "long": "-66.78753210",
+    "city": "Hatillo"
+  },
+  {
+    "department": "Hormigueros",
+    "lat": "18.13346380",
+    "long": "-67.11281230",
+    "city": "Hormigueros"
+  },
+  {
+    "department": "Humacao",
+    "lat": "18.15157360",
+    "long": "-65.82485290",
+    "city": "Humacao"
+  },
+  {
+    "department": "Isabela",
+    "lat": "16.97537580",
+    "long": "121.81070790",
+    "city": "Isabela"
+  },
+  {
+    "department": "Jayuya",
+    "lat": "18.21856740",
+    "long": "-66.59156170",
+    "city": "Jayuya"
+  },
+  {
+    "department": "Juana Díaz",
+    "lat": "18.05343720",
+    "long": "-66.50750790",
+    "city": "Juana Díaz"
+  },
+  {
+    "department": "Juncos",
+    "lat": "18.22745580",
+    "long": "-65.92099700",
+    "city": "Juncos"
+  },
+  {
+    "department": "Lajas",
+    "lat": "18.04996200",
+    "long": "-67.05934490",
+    "city": "Lajas"
+  },
+  {
+    "department": "Lares",
+    "lat": "34.02508020",
+    "long": "-118.45945930",
+    "city": "Lares"
+  },
+  {
+    "department": "Las Marías",
+    "lat": "35.83822380",
+    "long": "-78.61035660",
+    "city": "Las Marías"
+  },
+  {
+    "department": "Las Piedras",
+    "lat": "18.18557530",
+    "long": "-65.87362450",
+    "city": "Las Piedras"
+  },
+  {
+    "department": "Loíza",
+    "lat": "18.43299040",
+    "long": "-65.87836000",
+    "city": "Loíza"
+  },
+  {
+    "department": "Luquillo",
+    "lat": "18.37245070",
+    "long": "-65.71655110",
+    "city": "Luquillo"
+  },
+  {
+    "department": "Manatí",
+    "lat": "18.41812150",
+    "long": "-66.52627830",
+    "city": "Manatí"
+  },
+  {
+    "department": "Maricao",
+    "lat": "18.18079020",
+    "long": "-66.97990010",
+    "city": "Maricao"
+  },
+  {
+    "department": "Maunabo",
+    "lat": "18.00718850",
+    "long": "-65.89932890",
+    "city": "Maunabo"
+  },
+  {
+    "department": "Mayagüez",
+    "lat": "18.20134520",
+    "long": "-67.14515490",
+    "city": "Mayagüez"
+  },
+  {
+    "department": "Moca",
+    "lat": "18.39679290",
+    "long": "-67.14790350",
+    "city": "Moca"
+  },
+  {
+    "department": "Morovis",
+    "lat": "18.32578500",
+    "long": "-66.40655920",
+    "city": "Morovis"
+  },
+  {
+    "department": "Naguabo",
+    "lat": "18.21162470",
+    "long": "-65.73488410",
+    "city": "Naguabo"
+  },
+  {
+    "department": "Naranjito",
+    "lat": "18.30078610",
+    "long": "-66.24489040",
+    "city": "Naranjito"
+  },
+  {
+    "department": "Orocovis",
+    "lat": "18.22692240",
+    "long": "-66.39116860",
+    "city": "Orocovis"
+  },
+  {
+    "department": "Patillas",
+    "lat": "18.00373810",
+    "long": "-66.01340590",
+    "city": "Patillas"
+  },
+  {
+    "department": "Peñuelas",
+    "lat": "18.06335770",
+    "long": "-66.72738960",
+    "city": "Peñuelas"
+  },
+  {
+    "department": "Ponce",
+    "lat": "18.01107680",
+    "long": "-66.61406160",
+    "city": "Ponce"
+  },
+  {
+    "department": "Quebradillas",
+    "lat": "18.47383300",
+    "long": "-66.93851200",
+    "city": "Quebradillas"
+  },
+  {
+    "department": "Rincón",
+    "lat": "18.34015140",
+    "long": "-67.24994590",
+    "city": "Rincón"
+  },
+  {
+    "department": "Río Grande",
+    "lat": "28.81063826",
+    "long": "-101.83538780",
+    "city": "Río Grande"
+  },
+  {
+    "department": "Sabana Grande",
+    "lat": "18.07773920",
+    "long": "-66.96045490",
+    "city": "Sabana Grande"
+  },
+  {
+    "department": "Salinas",
+    "lat": "36.67773720",
+    "long": "-121.65550130",
+    "city": "Salinas"
+  },
+  {
+    "department": "San Germán",
+    "lat": "18.08070820",
+    "long": "-67.04110960",
+    "city": "San Germán"
+  },
+  {
+    "department": "San Juan",
+    "lat": "18.46320300",
+    "long": "-66.11475710",
+    "city": "San Juan"
+  },
+  {
+    "department": "San Lorenzo",
+    "lat": "18.18869120",
+    "long": "-65.97658620",
+    "city": "San Lorenzo"
+  },
+  {
+    "department": "San Sebastián",
+    "lat": "43.31833400",
+    "long": "-1.98123130",
+    "city": "San Sebastián"
+  },
+  {
+    "department": "Santa Isabel",
+    "lat": "17.96607750",
+    "long": "-66.40489200",
+    "city": "Santa Isabel"
+  },
+  {
+    "department": "Toa Alta",
+    "lat": "18.38828230",
+    "long": "-66.24822370",
+    "city": "Toa Alta"
+  },
+  {
+    "department": "Toa Baja",
+    "lat": "18.44447090",
+    "long": "-66.25432930",
+    "city": "Toa Baja"
+  },
+  {
+    "department": "Trujillo Alto",
+    "lat": "18.35467190",
+    "long": "-66.00738760",
+    "city": "Trujillo Alto"
+  },
+  {
+    "department": "Utuado",
+    "lat": "18.26550950",
+    "long": "-66.70045190",
+    "city": "Utuado"
+  },
+  {
+    "department": "Vega Alta",
+    "lat": "18.41217030",
+    "long": "-66.33128050",
+    "city": "Vega Alta"
+  },
+  {
+    "department": "Vega Baja",
+    "lat": "18.44614590",
+    "long": "-66.40419670",
+    "city": "Vega Baja"
+  },
+  {
+    "department": "Vieques",
+    "lat": "18.12628540",
+    "long": "-65.44009850",
+    "city": "Vieques"
+  },
+  {
+    "department": "Villalba",
+    "lat": "18.12175540",
+    "long": "-66.49857870",
+    "city": "Villalba"
+  },
+  {
+    "department": "Yabucoa",
+    "lat": "18.05052010",
+    "long": "-65.87932880",
+    "city": "Yabucoa"
+  },
+  {
+    "department": "Yauco",
+    "lat": "18.03496400",
+    "long": "-66.84989830",
+    "city": "Yauco"
+  }
+]

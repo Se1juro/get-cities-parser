@@ -1,0 +1,1124 @@
+[
+  {
+    "department": "Artemisa",
+    "lat": "22.80517000",
+    "long": "-82.58392000",
+    "city": "Alquizar"
+  },
+  {
+    "department": "Artemisa",
+    "lat": "22.81667000",
+    "long": "-82.75944000",
+    "city": "Artemisa"
+  },
+  {
+    "department": "Artemisa",
+    "lat": "22.90332000",
+    "long": "-83.15994000",
+    "city": "Bahia Honda"
+  },
+  {
+    "department": "Artemisa",
+    "lat": "22.98226000",
+    "long": "-82.54719000",
+    "city": "Bauta"
+  },
+  {
+    "department": "Artemisa",
+    "lat": "22.97944000",
+    "long": "-82.92214000",
+    "city": "Cabanas"
+  },
+  {
+    "department": "Artemisa",
+    "lat": "22.74057000",
+    "long": "-82.95912000",
+    "city": "Candelaria"
+  },
+  {
+    "department": "Artemisa",
+    "lat": "22.92639000",
+    "long": "-82.68750000",
+    "city": "Guanajay"
+  },
+  {
+    "department": "Artemisa",
+    "lat": "22.79613000",
+    "long": "-82.50667000",
+    "city": "Guira de Melena"
+  },
+  {
+    "department": "Artemisa",
+    "lat": "22.98931000",
+    "long": "-82.75376000",
+    "city": "Mariel"
+  },
+  {
+    "department": "Artemisa",
+    "lat": "22.77383000",
+    "long": "-82.80419000",
+    "city": "Municipio de Artemisa"
+  },
+  {
+    "department": "Artemisa",
+    "lat": "22.96957000",
+    "long": "-82.49997000",
+    "city": "Municipio de Bauta"
+  },
+  {
+    "department": "Artemisa",
+    "lat": "22.89215000",
+    "long": "-82.70873000",
+    "city": "Municipio de Guanajay"
+  },
+  {
+    "department": "Artemisa",
+    "lat": "22.96515000",
+    "long": "-82.80324000",
+    "city": "Municipio de Mariel"
+  },
+  {
+    "department": "Artemisa",
+    "lat": "22.71446000",
+    "long": "-83.04561000",
+    "city": "Municipio de San Cristobal"
+  },
+  {
+    "department": "Artemisa",
+    "lat": "22.89018000",
+    "long": "-82.50099000",
+    "city": "San Antonio de los Banos"
+  },
+  {
+    "department": "Artemisa",
+    "lat": "22.71658000",
+    "long": "-83.05647000",
+    "city": "San Cristobal"
+  },
+  {
+    "department": "Artemisa",
+    "lat": "22.80000000",
+    "long": "-83.01667000",
+    "city": "Soroa"
+  },
+  {
+    "department": "Camaguey",
+    "lat": "21.38083000",
+    "long": "-77.91694000",
+    "city": "Camaguey"
+  },
+  {
+    "department": "Camaguey",
+    "lat": "21.30000000",
+    "long": "-78.48333000",
+    "city": "El Caney"
+  },
+  {
+    "department": "Camaguey",
+    "lat": "21.85139000",
+    "long": "-78.11725000",
+    "city": "Esmeralda"
+  },
+  {
+    "department": "Camaguey",
+    "lat": "21.52536000",
+    "long": "-78.22579000",
+    "city": "Florida"
+  },
+  {
+    "department": "Camaguey",
+    "lat": "21.05222000",
+    "long": "-77.34990000",
+    "city": "Guaimaro"
+  },
+  {
+    "department": "Camaguey",
+    "lat": "21.24224000",
+    "long": "-77.82625000",
+    "city": "Jimaguayu"
+  },
+  {
+    "department": "Camaguey",
+    "lat": "21.48802000",
+    "long": "-77.61033000",
+    "city": "Minas"
+  },
+  {
+    "department": "Camaguey",
+    "lat": "21.46582000",
+    "long": "-78.34848000",
+    "city": "Municipio de Florida"
+  },
+  {
+    "department": "Camaguey",
+    "lat": "21.55000000",
+    "long": "-77.26667000",
+    "city": "Municipio de Nuevitas"
+  },
+  {
+    "department": "Camaguey",
+    "lat": "21.54585000",
+    "long": "-77.26504000",
+    "city": "Nuevitas"
+  },
+  {
+    "department": "Camaguey",
+    "lat": "20.71633000",
+    "long": "-77.99816000",
+    "city": "Santa Cruz del Sur"
+  },
+  {
+    "department": "Camaguey",
+    "lat": "21.23631000",
+    "long": "-77.52561000",
+    "city": "Sibanicu"
+  },
+  {
+    "department": "Camaguey",
+    "lat": "21.25817000",
+    "long": "-78.14979000",
+    "city": "Vertientes"
+  },
+  {
+    "department": "Ciego de Avila",
+    "lat": "21.68216000",
+    "long": "-78.62567000",
+    "city": "Baragua"
+  },
+  {
+    "department": "Ciego de Avila",
+    "lat": "22.19534000",
+    "long": "-78.91230000",
+    "city": "Chambas"
+  },
+  {
+    "department": "Ciego de Avila",
+    "lat": "21.84000000",
+    "long": "-78.76194000",
+    "city": "Ciego de Avila"
+  },
+  {
+    "department": "Ciego de Avila",
+    "lat": "22.01921000",
+    "long": "-78.70365000",
+    "city": "Ciro Redondo"
+  },
+  {
+    "department": "Ciego de Avila",
+    "lat": "22.14610000",
+    "long": "-78.97328000",
+    "city": "Florencia"
+  },
+  {
+    "department": "Ciego de Avila",
+    "lat": "22.10774000",
+    "long": "-78.62667000",
+    "city": "Moron"
+  },
+  {
+    "department": "Ciego de Avila",
+    "lat": "21.85000000",
+    "long": "-78.76667000",
+    "city": "Municipio de Ciego de Avila"
+  },
+  {
+    "department": "Ciego de Avila",
+    "lat": "22.29980000",
+    "long": "-78.56875000",
+    "city": "Municipio de Moron"
+  },
+  {
+    "department": "Ciego de Avila",
+    "lat": "21.94501000",
+    "long": "-78.43130000",
+    "city": "Primero de Enero"
+  },
+  {
+    "department": "Ciego de Avila",
+    "lat": "21.73748000",
+    "long": "-78.79336000",
+    "city": "Venezuela"
+  },
+  {
+    "department": "Cienfuegos",
+    "lat": "22.27797000",
+    "long": "-80.56931000",
+    "city": "Abreus"
+  },
+  {
+    "department": "Cienfuegos",
+    "lat": "22.38520000",
+    "long": "-80.84792000",
+    "city": "Aguada de Pasajeros"
+  },
+  {
+    "department": "Cienfuegos",
+    "lat": "22.14957000",
+    "long": "-80.44662000",
+    "city": "Cienfuegos"
+  },
+  {
+    "department": "Cienfuegos",
+    "lat": "22.34203000",
+    "long": "-80.27021000",
+    "city": "Cruces"
+  },
+  {
+    "department": "Cienfuegos",
+    "lat": "22.15247000",
+    "long": "-80.20354000",
+    "city": "Cumanayagua"
+  },
+  {
+    "department": "Cienfuegos",
+    "lat": "22.41479000",
+    "long": "-80.29310000",
+    "city": "Lajas"
+  },
+  {
+    "department": "Cienfuegos",
+    "lat": "22.19229000",
+    "long": "-80.71465000",
+    "city": "Municipio de Abreus"
+  },
+  {
+    "department": "Cienfuegos",
+    "lat": "22.15000000",
+    "long": "-80.45000000",
+    "city": "Municipio de Cienfuegos"
+  },
+  {
+    "department": "Cienfuegos",
+    "lat": "22.24126000",
+    "long": "-80.39110000",
+    "city": "Palmira"
+  },
+  {
+    "department": "Cienfuegos",
+    "lat": "22.34184000",
+    "long": "-80.55596000",
+    "city": "Rodas"
+  },
+  {
+    "department": "Granma",
+    "lat": "20.16635000",
+    "long": "-76.94291000",
+    "city": "Bartolome Maso"
+  },
+  {
+    "department": "Granma",
+    "lat": "20.37417000",
+    "long": "-76.64361000",
+    "city": "Bayamo"
+  },
+  {
+    "department": "Granma",
+    "lat": "20.23329000",
+    "long": "-77.27990000",
+    "city": "Campechuela"
+  },
+  {
+    "department": "Granma",
+    "lat": "20.55709000",
+    "long": "-76.47270000",
+    "city": "Cauto Cristo"
+  },
+  {
+    "department": "Granma",
+    "lat": "20.25494000",
+    "long": "-76.53930000",
+    "city": "Guisa"
+  },
+  {
+    "department": "Granma",
+    "lat": "20.36785000",
+    "long": "-76.42741000",
+    "city": "Jiguani"
+  },
+  {
+    "department": "Granma",
+    "lat": "20.34173000",
+    "long": "-77.12126000",
+    "city": "Manzanillo"
+  },
+  {
+    "department": "Granma",
+    "lat": "20.14298000",
+    "long": "-77.43532000",
+    "city": "Media Luna"
+  },
+  {
+    "department": "Granma",
+    "lat": "20.42511000",
+    "long": "-76.68614000",
+    "city": "Municipio de Bayamo"
+  },
+  {
+    "department": "Granma",
+    "lat": "20.24732000",
+    "long": "-77.10273000",
+    "city": "Municipio de Manzanillo"
+  },
+  {
+    "department": "Granma",
+    "lat": "19.93912000",
+    "long": "-77.57085000",
+    "city": "Municipio de Niquero"
+  },
+  {
+    "department": "Granma",
+    "lat": "20.04698000",
+    "long": "-77.58089000",
+    "city": "Niquero"
+  },
+  {
+    "department": "Granma",
+    "lat": "20.55971000",
+    "long": "-76.91673000",
+    "city": "Rio Cauto"
+  },
+  {
+    "department": "Granma",
+    "lat": "20.27465000",
+    "long": "-76.95132000",
+    "city": "Yara"
+  },
+  {
+    "department": "Guantanamo",
+    "lat": "20.34711000",
+    "long": "-74.49624000",
+    "city": "Baracoa"
+  },
+  {
+    "department": "Guantanamo",
+    "lat": "20.14444000",
+    "long": "-75.20917000",
+    "city": "Guantanamo"
+  },
+  {
+    "department": "Guantanamo",
+    "lat": "20.24673000",
+    "long": "-74.15181000",
+    "city": "Maisi"
+  },
+  {
+    "department": "Guantanamo",
+    "lat": "20.26723000",
+    "long": "-75.15546000",
+    "city": "Municipio de Guantanamo"
+  },
+  {
+    "department": "Guantanamo",
+    "lat": "20.36667000",
+    "long": "-75.01667000",
+    "city": "Rio Guayabal de Yateras"
+  },
+  {
+    "department": "Guantanamo",
+    "lat": "20.05564000",
+    "long": "-74.80750000",
+    "city": "San Antonio del Sur"
+  },
+  {
+    "department": "Havana",
+    "lat": "23.15794000",
+    "long": "-82.27837000",
+    "city": "Alamar"
+  },
+  {
+    "department": "Havana",
+    "lat": "23.03677000",
+    "long": "-82.36937000",
+    "city": "Arroyo Naranjo"
+  },
+  {
+    "department": "Havana",
+    "lat": "23.00720000",
+    "long": "-82.40170000",
+    "city": "Boyeros"
+  },
+  {
+    "department": "Havana",
+    "lat": "23.13833000",
+    "long": "-82.36417000",
+    "city": "Centro Habana"
+  },
+  {
+    "department": "Havana",
+    "lat": "23.10861000",
+    "long": "-82.37778000",
+    "city": "Cerro"
+  },
+  {
+    "department": "Havana",
+    "lat": "23.08810000",
+    "long": "-82.35970000",
+    "city": "Diez de Octubre"
+  },
+  {
+    "department": "Havana",
+    "lat": "23.12360000",
+    "long": "-82.30082000",
+    "city": "Guanabacoa"
+  },
+  {
+    "department": "Havana",
+    "lat": "23.15917000",
+    "long": "-82.33056000",
+    "city": "Habana del Este"
+  },
+  {
+    "department": "Havana",
+    "lat": "23.13302000",
+    "long": "-82.38304000",
+    "city": "Havana"
+  },
+  {
+    "department": "Havana",
+    "lat": "23.13028000",
+    "long": "-82.35306000",
+    "city": "La Habana Vieja"
+  },
+  {
+    "department": "Havana",
+    "lat": "23.12500000",
+    "long": "-82.33194000",
+    "city": "Regla"
+  },
+  {
+    "department": "Havana",
+    "lat": "23.06639000",
+    "long": "-82.29472000",
+    "city": "San Miguel del Padron"
+  },
+  {
+    "department": "Havana",
+    "lat": "22.97000000",
+    "long": "-82.38694000",
+    "city": "Santiago de las Vegas"
+  },
+  {
+    "department": "Holguin",
+    "lat": "20.96116000",
+    "long": "-75.72200000",
+    "city": "Banes"
+  },
+  {
+    "department": "Holguin",
+    "lat": "20.73775000",
+    "long": "-76.32574000",
+    "city": "Cacocum"
+  },
+  {
+    "department": "Holguin",
+    "lat": "20.64855000",
+    "long": "-75.92967000",
+    "city": "Cueto"
+  },
+  {
+    "department": "Holguin",
+    "lat": "21.10988000",
+    "long": "-76.13145000",
+    "city": "Gibara"
+  },
+  {
+    "department": "Holguin",
+    "lat": "20.88722000",
+    "long": "-76.26306000",
+    "city": "Holguin"
+  },
+  {
+    "department": "Holguin",
+    "lat": "20.96917000",
+    "long": "-76.29944000",
+    "city": "Jobabo"
+  },
+  {
+    "department": "Holguin",
+    "lat": "20.65776000",
+    "long": "-74.95075000",
+    "city": "Moa"
+  },
+  {
+    "department": "Holguin",
+    "lat": "20.98008000",
+    "long": "-75.74933000",
+    "city": "Municipio de Banes"
+  },
+  {
+    "department": "Holguin",
+    "lat": "20.91192000",
+    "long": "-76.27057000",
+    "city": "Municipio de Holguin"
+  },
+  {
+    "department": "Holguin",
+    "lat": "20.58269000",
+    "long": "-75.24116000",
+    "city": "Sagua de Tanamo"
+  },
+  {
+    "department": "Holguin",
+    "lat": "20.60009000",
+    "long": "-76.13364000",
+    "city": "San German"
+  },
+  {
+    "department": "Isla de la Juventud",
+    "lat": "21.88667000",
+    "long": "-82.80556000",
+    "city": "Nueva Gerona"
+  },
+  {
+    "department": "Las Tunas",
+    "lat": "20.81914000",
+    "long": "-77.57958000",
+    "city": "Amancio"
+  },
+  {
+    "department": "Las Tunas",
+    "lat": "20.98812000",
+    "long": "-77.42598000",
+    "city": "Colombia"
+  },
+  {
+    "department": "Las Tunas",
+    "lat": "21.16139000",
+    "long": "-76.47919000",
+    "city": "Jesus Menendez"
+  },
+  {
+    "department": "Las Tunas",
+    "lat": "20.90748000",
+    "long": "-77.28194000",
+    "city": "Jobabo"
+  },
+  {
+    "department": "Las Tunas",
+    "lat": "20.96167000",
+    "long": "-76.95111000",
+    "city": "Las Tunas"
+  },
+  {
+    "department": "Las Tunas",
+    "lat": "21.31070000",
+    "long": "-76.93403000",
+    "city": "Manati"
+  },
+  {
+    "department": "Las Tunas",
+    "lat": "21.19517000",
+    "long": "-76.60358000",
+    "city": "Puerto Padre"
+  },
+  {
+    "department": "Matanzas",
+    "lat": "22.76719000",
+    "long": "-81.56803000",
+    "city": "Alacranes"
+  },
+  {
+    "department": "Matanzas",
+    "lat": "22.76307000",
+    "long": "-81.44780000",
+    "city": "Bolondron"
+  },
+  {
+    "department": "Matanzas",
+    "lat": "22.53420000",
+    "long": "-80.91105000",
+    "city": "Calimete"
+  },
+  {
+    "department": "Matanzas",
+    "lat": "23.03661000",
+    "long": "-81.20596000",
+    "city": "Cardenas"
+  },
+  {
+    "department": "Matanzas",
+    "lat": "22.72064000",
+    "long": "-80.90492000",
+    "city": "Colon"
+  },
+  {
+    "department": "Matanzas",
+    "lat": "22.52694000",
+    "long": "-81.12861000",
+    "city": "Jaguey Grande"
+  },
+  {
+    "department": "Matanzas",
+    "lat": "22.80375000",
+    "long": "-81.19127000",
+    "city": "Jovellanos"
+  },
+  {
+    "department": "Matanzas",
+    "lat": "22.95035000",
+    "long": "-81.41059000",
+    "city": "Limonar"
+  },
+  {
+    "department": "Matanzas",
+    "lat": "22.72969000",
+    "long": "-80.72081000",
+    "city": "Los Arabos"
+  },
+  {
+    "department": "Matanzas",
+    "lat": "22.58733000",
+    "long": "-80.91451000",
+    "city": "Manguito"
+  },
+  {
+    "department": "Matanzas",
+    "lat": "22.94714000",
+    "long": "-80.91902000",
+    "city": "Marti"
+  },
+  {
+    "department": "Matanzas",
+    "lat": "23.04111000",
+    "long": "-81.57750000",
+    "city": "Matanzas"
+  },
+  {
+    "department": "Matanzas",
+    "lat": "22.98978000",
+    "long": "-81.23520000",
+    "city": "Municipio de Cardenas"
+  },
+  {
+    "department": "Matanzas",
+    "lat": "23.05000000",
+    "long": "-81.58333000",
+    "city": "Municipio de Matanzas"
+  },
+  {
+    "department": "Matanzas",
+    "lat": "22.72709000",
+    "long": "-81.28963000",
+    "city": "Pedro Betancourt"
+  },
+  {
+    "department": "Matanzas",
+    "lat": "22.76987000",
+    "long": "-81.01830000",
+    "city": "Perico"
+  },
+  {
+    "department": "Matanzas",
+    "lat": "22.79505000",
+    "long": "-81.53617000",
+    "city": "Union de Reyes"
+  },
+  {
+    "department": "Matanzas",
+    "lat": "23.15678000",
+    "long": "-81.24441000",
+    "city": "Varadero"
+  },
+  {
+    "department": "Mayabeque",
+    "lat": "22.71794000",
+    "long": "-82.28965000",
+    "city": "Batabano"
+  },
+  {
+    "department": "Mayabeque",
+    "lat": "22.92861000",
+    "long": "-82.38861000",
+    "city": "Bejucal"
+  },
+  {
+    "department": "Mayabeque",
+    "lat": "22.83727000",
+    "long": "-82.02641000",
+    "city": "Guines"
+  },
+  {
+    "department": "Mayabeque",
+    "lat": "22.97559000",
+    "long": "-82.16852000",
+    "city": "Jamaica"
+  },
+  {
+    "department": "Mayabeque",
+    "lat": "23.04419000",
+    "long": "-82.00919000",
+    "city": "Jaruco"
+  },
+  {
+    "department": "Mayabeque",
+    "lat": "22.87199000",
+    "long": "-82.42328000",
+    "city": "La Salud"
+  },
+  {
+    "department": "Mayabeque",
+    "lat": "22.91000000",
+    "long": "-81.85639000",
+    "city": "Madruga"
+  },
+  {
+    "department": "Mayabeque",
+    "lat": "22.78712000",
+    "long": "-82.01602000",
+    "city": "Municipio de Guines"
+  },
+  {
+    "department": "Mayabeque",
+    "lat": "22.78821000",
+    "long": "-82.15113000",
+    "city": "Municipio de Melena del Sur"
+  },
+  {
+    "department": "Mayabeque",
+    "lat": "22.82313000",
+    "long": "-82.35558000",
+    "city": "Quivican"
+  },
+  {
+    "department": "Mayabeque",
+    "lat": "22.96139000",
+    "long": "-82.15111000",
+    "city": "San Jose de las Lajas"
+  },
+  {
+    "department": "Mayabeque",
+    "lat": "22.78444000",
+    "long": "-81.91333000",
+    "city": "San Nicolas de Bari"
+  },
+  {
+    "department": "Mayabeque",
+    "lat": "23.15424000",
+    "long": "-81.92556000",
+    "city": "Santa Cruz del Norte"
+  },
+  {
+    "department": "Pinar del Rio",
+    "lat": "22.50419000",
+    "long": "-83.51442000",
+    "city": "Consolacion del Sur"
+  },
+  {
+    "department": "Pinar del Rio",
+    "lat": "22.20179000",
+    "long": "-84.08484000",
+    "city": "Guane"
+  },
+  {
+    "department": "Pinar del Rio",
+    "lat": "22.58882000",
+    "long": "-83.24671000",
+    "city": "Los Palacios"
+  },
+  {
+    "department": "Pinar del Rio",
+    "lat": "22.29058000",
+    "long": "-84.28599000",
+    "city": "Mantua"
+  },
+  {
+    "department": "Pinar del Rio",
+    "lat": "22.58691000",
+    "long": "-83.94551000",
+    "city": "Minas de Matahambre"
+  },
+  {
+    "department": "Pinar del Rio",
+    "lat": "22.44095000",
+    "long": "-83.41985000",
+    "city": "Municipio de Consolacion del Sur"
+  },
+  {
+    "department": "Pinar del Rio",
+    "lat": "22.24591000",
+    "long": "-84.03660000",
+    "city": "Municipio de Guane"
+  },
+  {
+    "department": "Pinar del Rio",
+    "lat": "22.75000000",
+    "long": "-83.55000000",
+    "city": "Municipio de La Palma"
+  },
+  {
+    "department": "Pinar del Rio",
+    "lat": "22.58333000",
+    "long": "-83.25000000",
+    "city": "Municipio de Los Palacios"
+  },
+  {
+    "department": "Pinar del Rio",
+    "lat": "22.41667000",
+    "long": "-83.69667000",
+    "city": "Pinar del Rio"
+  },
+  {
+    "department": "Pinar del Rio",
+    "lat": "22.77041000",
+    "long": "-83.73138000",
+    "city": "Puerto Esperanza"
+  },
+  {
+    "department": "Pinar del Rio",
+    "lat": "22.64667000",
+    "long": "-83.36972000",
+    "city": "San Diego de Los Banos"
+  },
+  {
+    "department": "Pinar del Rio",
+    "lat": "22.27898000",
+    "long": "-83.75956000",
+    "city": "San Luis"
+  },
+  {
+    "department": "Pinar del Rio",
+    "lat": "22.61892000",
+    "long": "-83.70694000",
+    "city": "Vinales"
+  },
+  {
+    "department": "Sancti Spiritus",
+    "lat": "22.07874000",
+    "long": "-79.49726000",
+    "city": "Cabaiguan"
+  },
+  {
+    "department": "Sancti Spiritus",
+    "lat": "21.87670000",
+    "long": "-79.84014000",
+    "city": "Condado"
+  },
+  {
+    "department": "Sancti Spiritus",
+    "lat": "22.10475000",
+    "long": "-79.72141000",
+    "city": "Fomento"
+  },
+  {
+    "department": "Sancti Spiritus",
+    "lat": "22.04956000",
+    "long": "-79.46106000",
+    "city": "Guayos"
+  },
+  {
+    "department": "Sancti Spiritus",
+    "lat": "21.94333000",
+    "long": "-79.16906000",
+    "city": "Jatibonico"
+  },
+  {
+    "department": "Sancti Spiritus",
+    "lat": "21.77241000",
+    "long": "-79.26832000",
+    "city": "La Sierpe"
+  },
+  {
+    "department": "Sancti Spiritus",
+    "lat": "22.08333000",
+    "long": "-79.50000000",
+    "city": "Municipio de Cabaiguan"
+  },
+  {
+    "department": "Sancti Spiritus",
+    "lat": "21.93333000",
+    "long": "-79.16667000",
+    "city": "Municipio de Jatibonico"
+  },
+  {
+    "department": "Sancti Spiritus",
+    "lat": "21.82176000",
+    "long": "-79.51036000",
+    "city": "Municipio de Sancti Spiritus"
+  },
+  {
+    "department": "Sancti Spiritus",
+    "lat": "21.83195000",
+    "long": "-79.88362000",
+    "city": "Municipio de Trinidad"
+  },
+  {
+    "department": "Sancti Spiritus",
+    "lat": "21.92972000",
+    "long": "-79.44250000",
+    "city": "Sancti Spiritus"
+  },
+  {
+    "department": "Sancti Spiritus",
+    "lat": "21.91524000",
+    "long": "-80.01929000",
+    "city": "Topes de Collantes"
+  },
+  {
+    "department": "Sancti Spiritus",
+    "lat": "21.80224000",
+    "long": "-79.98467000",
+    "city": "Trinidad"
+  },
+  {
+    "department": "Sancti Spiritus",
+    "lat": "22.32691000",
+    "long": "-79.23567000",
+    "city": "Yaguajay"
+  },
+  {
+    "department": "Sancti Spiritus",
+    "lat": "21.99712000",
+    "long": "-79.36678000",
+    "city": "Zaza del Medio"
+  },
+  {
+    "department": "Santiago de Cuba",
+    "lat": "20.29879000",
+    "long": "-76.24511000",
+    "city": "Contramaestre"
+  },
+  {
+    "department": "Santiago de Cuba",
+    "lat": "20.04850000",
+    "long": "-75.94579000",
+    "city": "El Cobre"
+  },
+  {
+    "department": "Santiago de Cuba",
+    "lat": "20.20897000",
+    "long": "-76.05776000",
+    "city": "Municipio de Palma Soriano"
+  },
+  {
+    "department": "Santiago de Cuba",
+    "lat": "20.00617000",
+    "long": "-75.70816000",
+    "city": "Municipio de Santiago de Cuba"
+  },
+  {
+    "department": "Santiago de Cuba",
+    "lat": "20.21130000",
+    "long": "-75.99362000",
+    "city": "Palma Soriano"
+  },
+  {
+    "department": "Santiago de Cuba",
+    "lat": "20.18809000",
+    "long": "-75.85031000",
+    "city": "San Luis"
+  },
+  {
+    "department": "Santiago de Cuba",
+    "lat": "20.02083000",
+    "long": "-75.82667000",
+    "city": "Santiago de Cuba"
+  },
+  {
+    "department": "Villa Clara",
+    "lat": "22.51996000",
+    "long": "-79.46599000",
+    "city": "Caibarien"
+  },
+  {
+    "department": "Villa Clara",
+    "lat": "22.64515000",
+    "long": "-79.89510000",
+    "city": "Calabazar de Sagua"
+  },
+  {
+    "department": "Villa Clara",
+    "lat": "22.48333000",
+    "long": "-79.75000000",
+    "city": "Camajuani"
+  },
+  {
+    "department": "Villa Clara",
+    "lat": "22.64930000",
+    "long": "-80.04935000",
+    "city": "Cifuentes"
+  },
+  {
+    "department": "Villa Clara",
+    "lat": "22.98212000",
+    "long": "-80.58556000",
+    "city": "Corralillo"
+  },
+  {
+    "department": "Villa Clara",
+    "lat": "22.61802000",
+    "long": "-79.86603000",
+    "city": "Encrucijada"
+  },
+  {
+    "department": "Villa Clara",
+    "lat": "22.44680000",
+    "long": "-80.09711000",
+    "city": "Esperanza"
+  },
+  {
+    "department": "Villa Clara",
+    "lat": "22.93924000",
+    "long": "-80.01185000",
+    "city": "Isabela de Sagua"
+  },
+  {
+    "department": "Villa Clara",
+    "lat": "22.15021000",
+    "long": "-79.97867000",
+    "city": "Manicaragua"
+  },
+  {
+    "department": "Villa Clara",
+    "lat": "22.22248000",
+    "long": "-79.74268000",
+    "city": "Municipio de Placetas"
+  },
+  {
+    "department": "Villa Clara",
+    "lat": "22.40000000",
+    "long": "-79.96667000",
+    "city": "Municipio de Santa Clara"
+  },
+  {
+    "department": "Villa Clara",
+    "lat": "22.31184000",
+    "long": "-79.65440000",
+    "city": "Placetas"
+  },
+  {
+    "department": "Villa Clara",
+    "lat": "22.78816000",
+    "long": "-80.25226000",
+    "city": "Quemado de Guines"
+  },
+  {
+    "department": "Villa Clara",
+    "lat": "22.88042000",
+    "long": "-80.39098000",
+    "city": "Rancho Veloz"
+  },
+  {
+    "department": "Villa Clara",
+    "lat": "22.37266000",
+    "long": "-80.15046000",
+    "city": "Ranchuelo"
+  },
+  {
+    "department": "Villa Clara",
+    "lat": "22.80667000",
+    "long": "-80.07556000",
+    "city": "Sagua la Grande"
+  },
+  {
+    "department": "Villa Clara",
+    "lat": "22.40694000",
+    "long": "-79.96472000",
+    "city": "Santa Clara"
+  },
+  {
+    "department": "Villa Clara",
+    "lat": "22.58677000",
+    "long": "-80.24261000",
+    "city": "Santo Domingo"
+  }
+]
